@@ -1,10 +1,8 @@
 # Legacy2
-SuRover autonomous and manual drive
-
 Jan2023-Sep2024:
-- Learned linux
+- Learned Linux
 - Learned ROS Noetic
-- Detailed linear control theory and linear/nonlinear estimation theory studies from reference texbooks (continuing):
+- Detailed linear control theory and linear/nonlinear estimation theory studies from reference textbooks (continuing):
     - Applied Optimal Estimation, Gelb
     - Introduction to Random Signals and Applied Kalman Filtering, Brown
     - Optimal Estimation of Dynamic Systems, John L. Crassidis
@@ -36,10 +34,10 @@ Current situation:
 - Legacy 2 is in production.
 - Manipulator software is not within the scope of this repository
 - Available sensors:
-    -ZED2 depth sensing camera
-    -RPLidar A3
-    -IMU's
-    -GPS
+    - ZED2 depth sensing camera
+    - RPLidar A3
+    - IMU's
+    - GPS
   
 21.09.2024
 - Repository created.
